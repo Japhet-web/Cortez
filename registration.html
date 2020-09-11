@@ -97,9 +97,27 @@ span.psw {
         </tr>
         <tr>
           <td>Password</td>
-          <td><input type="password" id="txtPassword" name="txtPassword" /></td>
+          <td><input type="password" id="txtPassword" name="txtPassword"
+                               placeholder="Enter password here"
+
+          />
+          </td>
         </tr>
-        
+                  <td colspan="3" align="right">
+
+        <!-- Surround the select box within a "custom-select" DIV element.
+Remember to set the width: -->
+<div class="custom-select" style="width:200px;">
+  <select>
+    <option value="0">Login as:</option>
+    <option value="1">Guest</option>
+    <option value="2">Admin</option>
+        <option value="3">Student</option>
+    <option value="4">Bussiness</option>
+
+  
+  </select>
+</div>
         <tr>
           <td>Login as</td>
           <td>
@@ -109,7 +127,7 @@ span.psw {
                    value = "Guest"
                    selected="selected"/>
             <label for="loginType">Guest</label>
-            
+         
             <input type="radio"
                    id="loginType"
                    name="loginType"
@@ -128,6 +146,7 @@ span.psw {
     
     
         <span class="psw">Forgot <a href="#">password?</a></span>
+        
 
   </div>        
   </td>
