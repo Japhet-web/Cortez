@@ -3,9 +3,9 @@ I make my Instagram clone by Japhet Cortez.
 
 * [About the Project](#about-the-project)
   * Create New Post
-* [Action]
+* Action
   * Another Action
-  * Installation](#installation)
+  * Installation
 * Something Else Here
 * Log out
 * Likes
