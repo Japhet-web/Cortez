@@ -10,5 +10,7 @@ I make my Instagram clone by Japhet Cortez.
 * [Log Out](#log out)
 * [Likes](#likes)
 
+## Acknowledgements
 
+* [Sir CLYDE CHESTER BALAMAN](#Sir CLYDE CHESTER BALAMAN)
 #Thank You Sir CLYDE CHESTER BALAMAN
